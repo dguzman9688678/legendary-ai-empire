@@ -4,7 +4,25 @@ Daniel Guzman's Complete AI Development Empire
 ## Executive Summary & Strategic Overview
 
 **ARCSEC-IMPRINT-2025-0718-WAR | Empire Version 2025.1**
+<p align="center">
+  <a href="https://github.com/dguzman9688678/legendary-ai-empire">
+    <img alt="Stars" src="https://img.shields.io/github/stars/dguzman9688678/legendary-ai-empire?style=for-the-badge&color=gold">
+  </a>
+  <a href="https://github.com/dguzman9688678/legendary-ai-empire/fork">
+    <img alt="Forks" src="https://img.shields.io/github/forks/dguzman9688678/legendary-ai-empire?style=for-the-badge&color=blue">
+  </a>
+  <a href="https://github.com/dguzman9688678/legendary-ai-empire/blob/main/LICENSE">
+    <img alt="License: GPL-3.0" src="https://img.shields.io/github/license/dguzman9688678/legendary-ai-empire?style=for-the-badge&color=brightgreen">
+  </a>
+  <a href="https://claude.ai/public/artifacts/3402c955-fdd7-4d1d-9c2b-716b8f430703">
+    <img alt="ARCSEC WAR MODE" src="https://img.shields.io/badge/ARCSEC-WAR--MODE-red?style=for-the-badge&logo=github">
+  </a>
+  <img alt="Built With OpenAI" src="https://img.shields.io/badge/Built_with-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="Powered by Gemini" src="https://img.shields.io/badge/Powered_by-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img alt="Claude 4 Opus" src="https://img.shields.io/badge/Claude_4-Opus-AA5CC3?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="Legendary Empire" src="https://img.shields.io/badge/Version-Empire_v2025.1-purple?style=for-the-badge">
 
+</p>
 ---
 
 ## 📋 Executive Overview
